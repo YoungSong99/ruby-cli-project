@@ -1,7 +1,7 @@
 # Recipe Matcher CLI
 
 This CLI app recommends possible recipes based on the ingredients you currently have.
-![](/Users/young/Projects/ruby-cli-project/demo.gif)
+![](demo.gif)
 
 ## How to Use
 
